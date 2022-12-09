@@ -2,7 +2,7 @@ const canvas = document.getElementById('canvas');
 /** @type {CanvasRenderingContext2D} */
 const ctx = canvas.getContext('2d');
 
-const fieldSize = 50
+const fieldSize = 50;
 const width = canvas.width;
 const height = canvas.height;
 const hSize = fieldSize;
